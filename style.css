@@ -1,0 +1,262 @@
+:root {
+  --font-family: Roboto; 
+  --hover-color: #2196f3;
+  --special-black-color: #212121;
+}
+  
+  
+  a {
+    text-decoration: none;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  address {
+    font-style: normal;
+  }
+
+  .logo-dark {
+    color: #0c0c0c;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.192;
+    letter-spacing: 0.03em;
+    
+  }
+
+  .span-logo {
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.192;
+    letter-spacing: 0.03em;
+    color: var(--hover-color);
+  }
+
+
+  .nav-list{
+    font-family: var(--font-family);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.192px;
+    letter-spacing: 0.02em;
+    margin-left: 200px;
+    vertical-align: 15px;
+    display: flex;
+    align-items: center;
+  }
+
+  
+
+  .list{
+    display: flex;
+  }
+
+  .list-information{
+   display: flex;
+   margin: 0; 
+   padding: 4px;
+  }
+  
+
+  
+
+   .adrress-link {
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.192px;
+    letter-spacing: 0.02em;
+    color: #757575;
+    margin-left: 1000px;
+    vertical-align: 15px;
+   
+    
+  }
+
+  
+  
+
+  .hero {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    max-width: 1600px;
+    background: #2f303a;
+
+  }
+
+
+  
+
+  .btn {
+    min-width: 200px;
+    min-height: 50px;
+    background: var(--hover-color);
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.875;
+    margin-left: 530px;
+    letter-spacing: 0.06em;
+    border-radius: 4px;
+    color: #ffffff;
+    
+  }
+
+  .information-team{
+    padding-top: 94px;
+    padding-bottom: 94px;
+    display: flex;
+  }
+
+  .information {
+    font-family: var(--font-family);
+    width: 270px;
+    margin: 0;
+    padding: 4px;
+  }
+
+ .list-information{
+  margin-bottom: 10px;
+  font-family: var(--font-family);
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.143;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--special-black-color);
+  display: flex;
+  
+  
+}
+ 
+.inf-discription{
+  font-family: var(--font-family);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.714;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+  
+
+ .title-2 {
+  font-family: var(--font-family);
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.167;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: var(--special-black-color);
+}
+
+
+
+ .title-3 {
+  font-family: var(--font-family);
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 42px;
+  letter-spacing: 0.03em;
+  text-align: center;
+  background-color: #2F303A;
+  color: #ffffff;
+  
+ }
+
+ .image{
+  height: 260px;
+  width: 270px;
+  left: 515px;
+  top: 1635px;
+  border-radius: 0px;
+  margin-right: 10px;
+  max-width: 100%;
+  height: auto;
+  display: flex;
+  margin: 0; 
+  padding: 4px;
+
+ 
+ }
+
+ .portfolio.list{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+ }
+
+.information{
+  display: flex;
+  
+}
+
+.information-team{
+  display: flex;
+
+ 
+}
+
+ .title {
+  font-family: var(--font-family);
+  margin-left: 51px5px;
+  height: 10px;
+  color: #0c0c0c;
+ }
+
+ .discription {
+  font-family: var(--font-family);
+  color: #0c0c0c;
+  
+  
+ }
+
+ .link {
+  color: grey;
+  height: 40px;
+  line-height: 9px;
+ }
+
+ .footer-box {
+  background: #2f303a;
+ }
+
+ .footer-list{
+   margin-bottom: 9px;
+ }
+
+ .logo-logo-dark {
+ color: white;
+ margin-right: 0;
+ margin-bottom: 20px;
+ 
+ 
+ }
+
+ .map-link {
+  font-family: var(--font-family);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.714;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+  margin-top: 0px;
+  
+  
+ }
